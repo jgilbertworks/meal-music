@@ -7,7 +7,7 @@
 Created an application that generates a playlist based on nearby restaurants you searched by cuisine.
 
 ## Live link
-Open the live link at https://fredsgithubaccount.github.io/Meal-Music/
+Open the live link at https://jgilbertworks.github.io/meal-music/
 
 ## Techologies
 
